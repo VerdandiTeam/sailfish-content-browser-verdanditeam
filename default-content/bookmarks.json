@@ -1,0 +1,26 @@
+[
+    {
+        "favicon": "image://theme/icon-launcher-jollacom",
+        "hasTouchIcon": true,
+        "title": "Jolla",
+        "url": "https://jolla.com/"
+    },
+    {
+        "favicon": "image://theme/icon-launcher-jollashop",
+        "hasTouchIcon": true,
+        "title": "Online Shop",
+        "url": "https://shop.jolla.com/"
+    },
+    {
+        "favicon": "image://theme/icon-launcher-jollacare",
+        "hasTouchIcon": true,
+        "title": "VerdandiTeam",
+        "url": "https://verdanditeam.com/"
+    },
+    {
+        "favicon": "image://theme/icon-launcher-jollacommunity",
+        "hasTouchIcon": true,
+        "title": "Community",
+        "url": "https://forum.sailfishos.org/"
+    },
+]
